@@ -1,51 +1,109 @@
-# 🍔 Foodizone - Food Delivery Mobile App UI
+# 🍔 Foodizone - Food Delivery Android Application
 
-Foodizone adalah desain antarmuka (UI/UX) aplikasi mobile bertema **food delivery** yang dirancang menggunakan Figma. Aplikasi ini menghadirkan pengalaman pemesanan makanan yang modern, sederhana, dan mudah digunakan.
+Foodizone adalah aplikasi **Food Delivery** berbasis Android yang dikembangkan menggunakan **Kotlin** di **Android Studio**. Aplikasi ini dirancang untuk memberikan pengalaman pemesanan makanan yang modern, mudah digunakan, dan memiliki antarmuka yang menarik.
 
 ## 📱 Preview
 
-![Foodizone Preview](Preview.png)
+![Foodizone Preview](assets/Preview.png)
+
+---
+
+## 📖 About the Project
+
+Foodizone merupakan aplikasi mobile yang mensimulasikan layanan pemesanan makanan secara online. Pengguna dapat menjelajahi berbagai kategori makanan, melihat menu populer, mencari makanan, serta mengakses halaman autentikasi melalui antarmuka yang sederhana dan intuitif.
+
+Proyek ini dikembangkan sebagai implementasi pengembangan aplikasi Android menggunakan bahasa pemrograman Kotlin dengan Android Studio.
+
+---
 
 ## ✨ Features
 
-- 🚀 Modern & Clean User Interface
-- 🔍 Search Food
-- 🍔 Food Categories
-- 🔥 Popular Food Section
-- 💰 Offer & Deals
+- 🍔 Browse food categories
+- 🔍 Search food menu
+- 🔥 Popular food recommendations
+- 💰 Offers & Deals section
+- 📍 Location selection
+- 🔐 User login interface
+- 📱 Modern and responsive UI
+- ⚡ Smooth navigation between screens
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Description |
+|------------|-------------|
+| Kotlin | Main programming language |
+| Android Studio | IDE for Android Development |
+| XML | User Interface Layout |
+| Gradle | Build Automation Tool |
+| Material Design | UI Components & Design Guidelines |
+
+---
+
+## 📂 Project Structure
+
+```
+Foodizone/
+│── app/
+│── gradle/
+│── build.gradle
+│── settings.gradle
+│── README.md
+│── Preview.png
+```
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Android Studio
+- JDK 17 (or compatible version)
+- Android SDK
+
+### Installation
+
+1. Clone this repository
+
+```bash
+git clone https://github.com/ilhmtnzl/Aplikasi-Foodizone.git
+```
+
+2. Open the project using Android Studio.
+
+3. Wait until Gradle finishes syncing.
+
+4. Run the application on an Android Emulator or a physical Android device.
+
+---
+
+## 📸 Application Screens
+
+- 🚀 Splash Screen
+- 🏠 Home Screen
 - 🔐 Login Screen
-- 📍 Location Selection
-- 🛒 Food Ordering Experience
-- 📱 Mobile Responsive Design Concept
 
-## 🎨 Design Screens
+---
 
-- Splash Screen
-- Home Screen
-- Login Screen
+## 🎯 Purpose
 
-## 🛠️ Tools
+This project was developed to:
 
-- Figma
-- Material Design Icons
-- Google Fonts
+- Practice Android application development using Kotlin.
+- Implement modern mobile UI principles.
+- Improve Android Studio development skills.
+- Build a functional prototype of a food delivery application.
 
-## 🎯 Design Goals
-
-- Memberikan pengalaman pengguna yang sederhana dan intuitif.
-- Menampilkan informasi makanan dengan tampilan yang menarik.
-- Memudahkan pengguna dalam mencari dan memesan makanan.
-- Menggunakan warna yang modern untuk meningkatkan user experience.
-
-## 📂 Project Status
-
-✅ Completed
+---
 
 ## 👨‍💻 Author
 
 **Ilham Tanzilal Aziizir**
 
-- GitHub : https://github.com/ilhmtnzl
+- GitHub: https://github.com/ilhmtnzl
 
 ---
-⭐ If you like this project, don't forget to give it a star!
+
+⭐ If you find this project useful, consider giving it a star!
