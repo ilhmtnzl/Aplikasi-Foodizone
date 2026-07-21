@@ -4,8 +4,7 @@ Foodizone adalah aplikasi **Food Delivery** berbasis Android yang dikembangkan m
 
 ## 📱 Preview
 
-![Foodizone Preview](assets/Preview.png)
-
+![Foodizone Preview](Preview.png)
 ---
 
 ## 📖 About the Project
